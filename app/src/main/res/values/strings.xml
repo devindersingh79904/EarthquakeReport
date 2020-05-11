@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EarthQuakeReport</string>
+
+    <string name="No_data">No Earth Quake to display</string>
 </resources>
